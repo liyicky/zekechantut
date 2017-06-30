@@ -1,0 +1,1 @@
+Platformer.level1 = {};
